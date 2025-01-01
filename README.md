@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Java Script, Python, C++**
 
-- 💬 Ask me about **react, vite & gsap**
+- 💬 Ask me about **react, & vite**
 
 - 📫 How to reach me **deepakshroff.code@gmail.com**
 
